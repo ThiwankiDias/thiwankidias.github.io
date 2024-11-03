@@ -8,7 +8,7 @@ MenuBtn.addEventListener('click',function(e){
 
 //typing effect 
 let typed = new Typed('.auto-input',{
-    strings: ['Front-End Developer', 'Back-End Developer'],
+    strings: ['Full-Stack Developer', 'Back-End Developer'],
     typeSpeed:70,
     backSpeed:70,
     backDelay: 2000,
